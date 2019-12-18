@@ -6303,6 +6303,9 @@ ol.comment-list li.comment .comment-respond .comment-form p {
     font-weight: 700;
     padding: 5px 20px;
 }
+.aboutRH{
+    height: 300px;
+}
 /* widget testimonial */
 .widget-testimonial .testimonial-pic{
 	height:70px;
